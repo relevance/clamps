@@ -1,1 +1,1 @@
-app: bin/hubot -a campfire -n clamps --enable-slash
+app: bin/hubot -a campfire -n clamps 
