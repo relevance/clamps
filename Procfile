@@ -1,1 +1,1 @@
-app: bin/hubot -a irc -n clamps 
+app: bin/hubot -a campfire -n clamps 
