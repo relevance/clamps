@@ -35,7 +35,6 @@
   "megusta.coffee",
   "meme_generator.coffee",
   "news.coffee",
-  "oauth.coffee",
   "quote.coffee",
   "redis-brain.coffee", 
   "rimshot.coffee",
