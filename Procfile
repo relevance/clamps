@@ -1,1 +1,1 @@
-app: bin/hubot -a campfire -n clamps --alias '/'
+web: bin/hubot -a campfire -n Hubot
